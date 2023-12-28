@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PlanWithAjay/static/css/main.ab55ad9e.css",
+    "main.js": "/PlanWithAjay/static/js/main.e1c5af62.js",
+    "index.html": "/PlanWithAjay/index.html",
+    "main.ab55ad9e.css.map": "/PlanWithAjay/static/css/main.ab55ad9e.css.map",
+    "main.e1c5af62.js.map": "/PlanWithAjay/static/js/main.e1c5af62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab55ad9e.css",
+    "static/js/main.e1c5af62.js"
+  ]
+}
